@@ -23,7 +23,7 @@ It allows users to input account names and secret keys, and generates One-Time P
 
 ---
 
-## Installation
+## Installation 
 
 1. Clone the repository:
 
