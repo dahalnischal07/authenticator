@@ -1,0 +1,48 @@
+[33mcommit bbe4baca3a1acf0d8cb5a01ffcdead856598d636[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2b96631 1412f5c
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Sat Feb 28 17:02:50 2026 +0545
+
+    Merge branch 'main' of https://github.com/dahalnischal07/authenticator
+
+[33mcommit 2b96631c74ba8d9fe0ae6ddf29ff0ab9cd95807b[m
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Sat Feb 28 17:00:11 2026 +0545
+
+    final readme
+
+[33mcommit 35c0b673597f4ab48611b2b542bd39838a992ff5[m
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Sat Feb 28 16:56:13 2026 +0545
+
+    redme
+
+[33mcommit 32823fe8f78aa177f53633ad213a70613a01db97[m
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Sat Feb 28 16:54:44 2026 +0545
+
+    final
+
+[33mcommit 1412f5cdc983f2bd8a485f5a719b6ccd04f7f0fd[m
+Author: Nischal Dahal <72549586+dahalnischal07@users.noreply.github.com>
+Date:   Sat Feb 28 16:50:55 2026 +0545
+
+    Delete AuthenticatorApp.class
+
+[33mcommit a097deeff7243508826e937ba19c962393ebf211[m
+Author: Nischal Dahal <72549586+dahalnischal07@users.noreply.github.com>
+Date:   Sat Feb 28 16:50:37 2026 +0545
+
+    Delete AuthenticatorApp$AccountData.class
+
+[33mcommit e74de8787d78c5c99c1ee8c83e7b9beb2851856d[m
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Sat Feb 28 16:49:41 2026 +0545
+
+    final
+
+[33mcommit 03d048eea01b28a773767bff95dc630b526b043a[m
+Author: Nischal Dahal <nischaldahal007@gmail.com>
+Date:   Fri Feb 27 17:55:45 2026 +0545
+
+    Initial commit
